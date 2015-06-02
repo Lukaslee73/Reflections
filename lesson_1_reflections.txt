@@ -1,0 +1,9 @@
+Choosing commits are good because you can make sure that the changes make sense, but you may forget to make an important change.
+
+Git lets you save multiple files at the same time because files can refer to each other, something that never happens with google drive
+
+By using them this is a dumb question
+
+Less risk. You have the ability to undo any catastrophic mistake you make 
+
+I want to use this for websites

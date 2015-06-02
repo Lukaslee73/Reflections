@@ -1,0 +1,1 @@
+When yo uinitialize a respository, it starts collecting versions for control purposes
