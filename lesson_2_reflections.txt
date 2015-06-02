@@ -1,1 +1,3 @@
 When yo uinitialize a respository, it starts collecting versions for control purposes
+
+The staging area is different from the repository because it is an initial step that has yet to change, it is different from the working directory because the WD is simply the folder that is being git-ified
